@@ -8,3 +8,5 @@ setTimeout(() => {
 a = 2;
 a = 3;
 s = 4;
+fsdfsda = 3242;
+zcdc = 234;
