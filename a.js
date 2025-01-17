@@ -6,3 +6,4 @@ setTimeout(() => {
   console.log(4);
 }, 0);
 a = 2;
+a = 3;
