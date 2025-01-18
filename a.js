@@ -1,12 +1,5 @@
-console.log(1);
-console.log(2);
-console.log(34);
-
-setTimeout(() => {
-  console.log(4);
-}, 0);
-a = 2;
-a = 3;
-s = 4;
-fsdfsda = 3242;
-zcdc = 234;
+let name = "john";
+const age = 25;
+var isStudent = true;
+console.log(name, age, isStudent);
+console.log("sdf");
